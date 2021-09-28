@@ -1,0 +1,1 @@
+move_towards_point(x_target, y_target, 1);
